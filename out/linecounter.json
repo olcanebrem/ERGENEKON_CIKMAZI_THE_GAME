@@ -1,0 +1,821 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\OLCAN\\Documents\\Learn_1",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2021-01-24 01:20:44",
+            "filesum": 58,
+            "codesum": 4586,
+            "commentsum": 19,
+            "blanksum": 93,
+            "statistics": {
+                ".json": {
+                    "code": 48,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".sln": {
+                    "code": 20,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".anim": {
+                    "code": 1793,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".cs": {
+                    "code": 448,
+                    "comment": 19,
+                    "blank": 87
+                },
+                ".controller": {
+                    "code": 1476,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".csproj": {
+                    "code": 716,
+                    "comment": 0,
+                    "blank": 0
+                },
+                "": {
+                    "code": 30,
+                    "comment": 0,
+                    "blank": 3
+                },
+                ".log": {
+                    "code": 44,
+                    "comment": 0,
+                    "blank": 3
+                },
+                ".physicsMaterial2D": {
+                    "code": 11,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 3,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": ".collabignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 716,
+                    "comment": 0,
+                    "filename": "Assembly-CSharp.csproj"
+                },
+                {
+                    "blank": 0,
+                    "code": 101,
+                    "comment": 0,
+                    "filename": "Assets\\Animation\\skull.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 168,
+                    "comment": 0,
+                    "filename": "Assets\\Animation\\Skull.controller"
+                },
+                {
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\-- Example Photos --\\Crafting Example.PNG",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\-- Example Photos --\\Shape Shooter Example.PNG",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 159,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Blue.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Blue_Idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Blue_Jump.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Blue_Land.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Blue_Walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 159,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Pink.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Pink_Idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Pink_Jump.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Pink_Land.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Pink_Walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 53,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 168,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\MrPickle_0.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 130,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character1\\Character1.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character1\\Character1_Idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character1\\Character1_Shoot.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character1\\Character1_Walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 130,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character2\\Character2.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character2\\Character2_Idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character2\\Character2_Shoot.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character2\\Character2_Walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 130,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character3\\Character3.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character3\\Character3_Idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character3\\Character3_Shoot.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character3\\Character3_Walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 80,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Effects\\Animation\\Explosion.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Effects\\Animation\\Explosion.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Effects\\Animation\\Fireball.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Effects\\Animation\\Fireball.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 74,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Enemies\\Insects\\Animation\\Beetle\\Beetle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Enemies\\Insects\\Animation\\Beetle\\Beetle_0.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 74,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Enemies\\Insects\\Animation\\GiantBeetle\\GiantBeetle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Enemies\\Insects\\Animation\\GiantBeetle\\GiantBeetle.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Items & Icons\\Gold Miner\\Animation\\TV_Animated.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Items & Icons\\Gold Miner\\Animation\\TV_Animated.controller"
+                },
+                {
+                    "blank": 9,
+                    "code": 67,
+                    "comment": 2,
+                    "filename": "Assets\\enemySkull.cs"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Main Camera.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "Assets\\materials\\New Physics Material 2D.physicsMaterial2D"
+                },
+                {
+                    "blank": 10,
+                    "code": 39,
+                    "comment": 3,
+                    "filename": "Assets\\script\\attack.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "Assets\\script\\CameraControl.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 25,
+                    "comment": 2,
+                    "filename": "Assets\\script\\checkPoint.cs"
+                },
+                {
+                    "blank": 11,
+                    "code": 30,
+                    "comment": 3,
+                    "filename": "Assets\\script\\Club.cs"
+                },
+                {
+                    "blank": 8,
+                    "code": 23,
+                    "comment": 2,
+                    "filename": "Assets\\script\\Collectibles.cs"
+                },
+                {
+                    "blank": 8,
+                    "code": 59,
+                    "comment": 2,
+                    "filename": "Assets\\script\\Controller.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "Assets\\script\\LevelManager.cs"
+                },
+                {
+                    "blank": 12,
+                    "code": 59,
+                    "comment": 0,
+                    "filename": "Assets\\script\\Projectile.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 30,
+                    "comment": 2,
+                    "filename": "Assets\\script\\spawner.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 2,
+                    "filename": "Assets\\script\\TileMap.cs"
+                },
+                {
+                    "blank": 8,
+                    "code": 34,
+                    "comment": 1,
+                    "filename": "Assets\\script\\WeaponTrack.cs"
+                },
+                {
+                    "blank": 0,
+                    "code": 53,
+                    "comment": 0,
+                    "filename": "Assets\\walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Learn_1.sln"
+                },
+                {
+                    "blank": 3,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "Logs\\Packages-Update.log"
+                },
+                {
+                    "blank": 0,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "Packages\\manifest.json"
+                }
+            ]
+        },
+        {
+            "version": "0.2.7",
+            "counttime": "2021-01-24 01:25:31",
+            "filesum": 58,
+            "codesum": 4586,
+            "commentsum": 19,
+            "blanksum": 93,
+            "statistics": {
+                ".json": {
+                    "code": 48,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".log": {
+                    "code": 44,
+                    "comment": 0,
+                    "blank": 3
+                },
+                ".sln": {
+                    "code": 20,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".anim": {
+                    "code": 1793,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".cs": {
+                    "code": 448,
+                    "comment": 19,
+                    "blank": 87
+                },
+                ".physicsMaterial2D": {
+                    "code": 11,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".controller": {
+                    "code": 1476,
+                    "comment": 0,
+                    "blank": 0
+                },
+                "": {
+                    "code": 30,
+                    "comment": 0,
+                    "blank": 3
+                },
+                ".csproj": {
+                    "code": 716,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 3,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": ".collabignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 716,
+                    "comment": 0,
+                    "filename": "Assembly-CSharp.csproj"
+                },
+                {
+                    "blank": 0,
+                    "code": 101,
+                    "comment": 0,
+                    "filename": "Assets\\Animation\\skull.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 168,
+                    "comment": 0,
+                    "filename": "Assets\\Animation\\Skull.controller"
+                },
+                {
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\-- Example Photos --\\Crafting Example.PNG",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\-- Example Photos --\\Shape Shooter Example.PNG",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 159,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Blue.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Blue_Idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Blue_Jump.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Blue_Land.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Blue_Walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 159,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Pink.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Pink_Idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Pink_Jump.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Pink_Land.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Blob Players\\Animation\\BlobPlayer_Pink_Walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 53,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 168,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\MrPickle_0.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 130,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character1\\Character1.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character1\\Character1_Idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character1\\Character1_Shoot.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character1\\Character1_Walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 130,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character2\\Character2.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character2\\Character2_Idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character2\\Character2_Shoot.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character2\\Character2_Walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 130,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character3\\Character3.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 68,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character3\\Character3_Idle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character3\\Character3_Shoot.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Characters\\Soldiers\\Animation\\Character3\\Character3_Walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 80,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Effects\\Animation\\Explosion.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Effects\\Animation\\Explosion.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 71,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Effects\\Animation\\Fireball.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Effects\\Animation\\Fireball.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 74,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Enemies\\Insects\\Animation\\Beetle\\Beetle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Enemies\\Insects\\Animation\\Beetle\\Beetle_0.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 74,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Enemies\\Insects\\Animation\\GiantBeetle\\GiantBeetle.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Enemies\\Insects\\Animation\\GiantBeetle\\GiantBeetle.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 77,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Items & Icons\\Gold Miner\\Animation\\TV_Animated.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Brackeys\\2D Mega Pack\\Items & Icons\\Gold Miner\\Animation\\TV_Animated.controller"
+                },
+                {
+                    "blank": 9,
+                    "code": 67,
+                    "comment": 2,
+                    "filename": "Assets\\enemySkull.cs"
+                },
+                {
+                    "blank": 0,
+                    "code": 72,
+                    "comment": 0,
+                    "filename": "Assets\\Main Camera.controller"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "Assets\\materials\\New Physics Material 2D.physicsMaterial2D"
+                },
+                {
+                    "blank": 10,
+                    "code": 39,
+                    "comment": 3,
+                    "filename": "Assets\\script\\attack.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "Assets\\script\\CameraControl.cs"
+                },
+                {
+                    "blank": 5,
+                    "code": 25,
+                    "comment": 2,
+                    "filename": "Assets\\script\\checkPoint.cs"
+                },
+                {
+                    "blank": 11,
+                    "code": 30,
+                    "comment": 3,
+                    "filename": "Assets\\script\\Club.cs"
+                },
+                {
+                    "blank": 8,
+                    "code": 23,
+                    "comment": 2,
+                    "filename": "Assets\\script\\Collectibles.cs"
+                },
+                {
+                    "blank": 8,
+                    "code": 59,
+                    "comment": 2,
+                    "filename": "Assets\\script\\Controller.cs"
+                },
+                {
+                    "blank": 3,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "Assets\\script\\LevelManager.cs"
+                },
+                {
+                    "blank": 12,
+                    "code": 59,
+                    "comment": 0,
+                    "filename": "Assets\\script\\Projectile.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 30,
+                    "comment": 2,
+                    "filename": "Assets\\script\\spawner.cs"
+                },
+                {
+                    "blank": 4,
+                    "code": 12,
+                    "comment": 2,
+                    "filename": "Assets\\script\\TileMap.cs"
+                },
+                {
+                    "blank": 8,
+                    "code": 34,
+                    "comment": 1,
+                    "filename": "Assets\\script\\WeaponTrack.cs"
+                },
+                {
+                    "blank": 0,
+                    "code": 53,
+                    "comment": 0,
+                    "filename": "Assets\\walk.anim"
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "Learn_1.sln"
+                },
+                {
+                    "blank": 3,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "Logs\\Packages-Update.log"
+                },
+                {
+                    "blank": 0,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "Packages\\manifest.json"
+                }
+            ]
+        }
+    ]
+}

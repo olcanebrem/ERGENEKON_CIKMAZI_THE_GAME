@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: 003ae861ef88284429c416bcb4083c62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8242134056316371357
+    second: Layer 29_0
+  - first:
+      213: 3848411446727787286
+    second: Layer 29_1
+  - first:
+      213: -5575814283901044747
+    second: Layer 29_2
+  - first:
+      213: 3227196670472942858
+    second: Layer 29_3
+  - first:
+      213: -3299488168182047313
+    second: Layer 29_4
+  - first:
+      213: -2895092980367217606
+    second: Layer 29_5
+  - first:
+      213: -8296358280200969926
+    second: Layer 29_6
+  - first:
+      213: 5001874649548573110
+    second: Layer 29_7
+  - first:
+      213: 2209454122144955710
+    second: Layer 29_8
+  - first:
+      213: 7644688032971416870
+    second: Layer 29_9
+  - first:
+      213: 3001680255530655370
+    second: Layer 29_10
+  - first:
+      213: -3114042579816382521
+    second: Layer 29_11
+  - first:
+      213: 6840566140832165968
+    second: Layer 29_12
+  - first:
+      213: -1811493329899453506
+    second: Layer 29_13
+  - first:
+      213: 1881602475669623084
+    second: Layer 29_14
+  - first:
+      213: 1993292389331284545
+    second: Layer 29_15
+  - first:
+      213: 1471795649481106135
+    second: Layer 29_16
+  - first:
+      213: 2855991009586981678
+    second: Layer 29_17
+  - first:
+      213: 2711544461385802953
+    second: Layer 29_18
+  - first:
+      213: 1453286652532886887
+    second: Layer 29_19
+  - first:
+      213: -9085171333407500625
+    second: Layer 29_20
+  - first:
+      213: 1497475447758807715
+    second: Layer 29_21
+  - first:
+      213: -10119618807918405
+    second: Layer 29_22
+  - first:
+      213: 2873329271379351722
+    second: Layer 29_23
+  - first:
+      213: 5366595864532706866
+    second: Layer 29_24
+  - first:
+      213: -9095585340607812600
+    second: Layer 29_25
+  - first:
+      213: 5940127731618745317
+    second: Layer 29_26
+  - first:
+      213: -31633230546482220
+    second: Layer 29_27
+  - first:
+      213: -6227298910322351342
+    second: Layer 29_28
+  - first:
+      213: -6073998710433620866
+    second: Layer 29_29
+  - first:
+      213: -4203410434329018933
+    second: Layer 29_30
+  - first:
+      213: -697820456820331894
+    second: Layer 29_31
+  - first:
+      213: -874631978510767565
+    second: Layer 29_32
+  - first:
+      213: 7535635691219816802
+    second: Layer 29_33
+  - first:
+      213: -2973561115405563944
+    second: Layer 29_34
+  - first:
+      213: 1314882298059937549
+    second: Layer 29_35
+  - first:
+      213: 5618336833552702647
+    second: Layer 29_36
+  - first:
+      213: -1913959875849311243
+    second: Layer 29_37
+  - first:
+      213: -8564770526822365164
+    second: Layer 29_38
+  - first:
+      213: 7072091187434660073
+    second: Layer 29_39
+  - first:
+      213: -2622909562341889445
+    second: Layer 29_0
+  - first:
+      213: -7363907124382083060
+    second: Layer 29_1
+  - first:
+      213: -1896751650967568726
+    second: Layer 29_2
+  - first:
+      213: 2720845617870911658
+    second: Layer 29_3
+  - first:
+      213: -5254474002574902176
+    second: Layer 29_4
+  - first:
+      213: 8190558467860161110
+    second: Layer 29_5
+  - first:
+      213: 6187243602493283727
+    second: Layer 29_6
+  - first:
+      213: 6757465439801285942
+    second: Layer 29_7
+  - first:
+      213: 4511030945308959773
+    second: Layer 29_8
+  - first:
+      213: -4994155111048594198
+    second: Layer 29_9
+  - first:
+      213: 3109887733669996800
+    second: Layer 29_10
+  - first:
+      213: -6839130777760509058
+    second: Layer 29_11
+  - first:
+      213: -582200354195577604
+    second: Layer 29_12
+  - first:
+      213: -3908873596368341277
+    second: Layer 29_13
+  - first:
+      213: -2662212955946461905
+    second: Layer 29_14
+  - first:
+      213: -6910895797199565460
+    second: Layer 29_15
+  - first:
+      213: -6796706277921969484
+    second: Layer 29_16
+  - first:
+      213: 2637018129689896307
+    second: Layer 29_17
+  - first:
+      213: 6297774622054986392
+    second: Layer 29_18
+  - first:
+      213: -2159522594048611128
+    second: Layer 29_19
+  - first:
+      213: 2431527534334962786
+    second: Layer 29_20
+  - first:
+      213: 8687286612264590567
+    second: Layer 29_21
+  - first:
+      213: -5150708156303447716
+    second: Layer 29_22
+  - first:
+      213: 3821610109262998361
+    second: Layer 29_23
+  - first:
+      213: 7124960968273949186
+    second: Layer 29_24
+  - first:
+      213: 6252560650598965394
+    second: Layer 29_25
+  - first:
+      213: 1313829715572400388
+    second: Layer 29_26
+  - first:
+      213: 33763097257943591
+    second: Layer 29_27
+  - first:
+      213: -3592949700620177096
+    second: Layer 29_28
+  - first:
+      213: -6813449060708937096
+    second: Layer 29_29
+  - first:
+      213: 2544528503659819718
+    second: Layer 29_30
+  - first:
+      213: -2601880235970339817
+    second: Layer 29_31
+  - first:
+      213: -2377582163483818606
+    second: Layer 29_32
+  - first:
+      213: 5813816561130689958
+    second: Layer 29_33
+  - first:
+      213: -87197425321056979
+    second: Layer 29_34
+  - first:
+      213: -7826772493870204164
+    second: Layer 29_35
+  - first:
+      213: -2476274489131154476
+    second: Layer 29_36
+  - first:
+      213: 8095832787496275880
+    second: Layer 29_37
+  - first:
+      213: -1037870112952909798
+    second: Layer 29_38
+  - first:
+      213: -7018927699858192557
+    second: Layer 29_39
+  - first:
+      213: -2314039259407654659
+    second: Layer 29_40
+  - first:
+      213: 3210041825998075785
+    second: Layer 29_41
+  - first:
+      213: -6219198527834392078
+    second: Layer 29_42
+  - first:
+      213: -3786846959847232070
+    second: Layer 29_43
+  - first:
+      213: 2808509029931296384
+    second: Layer 29_44
+  - first:
+      213: 6717032288108333844
+    second: Layer 29_45
+  - first:
+      213: -311693456149293789
+    second: Layer 29_46
+  - first:
+      213: -6803667015578294910
+    second: Layer 29_47
+  - first:
+      213: 6346723032778649125
+    second: Layer 29_40
+  - first:
+      213: 4916627567377395964
+    second: Layer 29_41
+  - first:
+      213: -5137526362321992590
+    second: Layer 29_42
+  - first:
+      213: -3838271957343627357
+    second: Layer 29_43
+  - first:
+      213: -7441922988899863877
+    second: Layer 29_44
+  - first:
+      213: -8726882511192147402
+    second: Layer 29_45
+  - first:
+      213: 1637546426721249507
+    second: Layer 29_46
+  - first:
+      213: 3478249276948368517
+    second: Layer 29_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Layer 29_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae2aa56ad899bd0800000000000000
+      internalID: -2622909562341889445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 419
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08dc3c6c752ec990800000000000000
+      internalID: -7363907124382083060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 419
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae31f04c626da5e0800000000000000
+      internalID: -1896751650967568726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 419
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8bfdd7ca262c520800000000000000
+      internalID: 2720845617870911658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c7ffaebbb5417b0800000000000000
+      internalID: -5254474002574902176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 377
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6526fd4f785baa170800000000000000
+      internalID: 8190558467860161110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 377
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d9b6966418dd550800000000000000
+      internalID: 6187243602493283727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 377
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d9551d30757cd50800000000000000
+      internalID: 6757465439801285942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146fe98eb66a9e30800000000000000
+      internalID: 4511030945308959773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 335
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec3fbcf26231bab0800000000000000
+      internalID: -4994155111048594198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 335
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009aeb8ba6a882b20800000000000000
+      internalID: 3109887733669996800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 335
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d42bfac68611a0800000000000000
+      internalID: -6839130777760509058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e01cccdb9be7f0800000000000000
+      internalID: -582200354195577604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 293
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6bf889c24e0c9c0800000000000000
+      internalID: -3908873596368341277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 293
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f255e5ceb6bed0bd0800000000000000
+      internalID: -2662212955946461905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 293
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d0e2053e09710a0800000000000000
+      internalID: -6910895797199565460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba2bc596af3da1a0800000000000000
+      internalID: -6796706277921969484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 251
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3756e667402989420800000000000000
+      internalID: 2637018129689896307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 251
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892be07d6a0366750800000000000000
+      internalID: 6297774622054986392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 251
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc6d4174a5d702e0800000000000000
+      internalID: -2159522594048611128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ced91e8658eb120800000000000000
+      internalID: 2431527534334962786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 209
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec990a85217f8870800000000000000
+      internalID: 8687286612264590567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 209
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5963d1b8320588b0800000000000000
+      internalID: -5150708156303447716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 209
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ba9a88526190530800000000000000
+      internalID: 3821610109262998361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202fd704042f0e260800000000000000
+      internalID: 7124960968273949186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 167
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2906983c8ce85c650800000000000000
+      internalID: 6252560650598965394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 167
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ab045a29ab3210800000000000000
+      internalID: 1313829715572400388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 167
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722a39aab53f77000800000000000000
+      internalID: 33763097257943591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83130b69847432ec0800000000000000
+      internalID: -3592949700620177096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 125
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8729931bd24c171a0800000000000000
+      internalID: -6813449060708937096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 125
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2ff7d413bff4320800000000000000
+      internalID: 2544528503659819718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 125
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cd0e2f5b344ebd0800000000000000
+      internalID: -2601880235970339817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2950e398e91210fd0800000000000000
+      internalID: -2377582163483818606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 83
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a55a730c53dea050800000000000000
+      internalID: 5813816561130689958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25e86657663acef0800000000000000
+      internalID: -87197425321056979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 83
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa711582e7b16390800000000000000
+      internalID: -7826772493870204164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c9f4d87182add0800000000000000
+      internalID: -2476274489131154476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 41
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af0da3d60d2a5070800000000000000
+      internalID: 8095832787496275880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 41
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10827291aeb891f0800000000000000
+      internalID: -1037870112952909798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Layer 29_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 41
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3578dc1e172c79e90800000000000000
+      internalID: -7018927699858192557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
